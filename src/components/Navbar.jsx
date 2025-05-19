@@ -39,7 +39,7 @@ const Navbar = () => {
         {/* Logo */}
         <div className="flex items-center space-x-8">
           <img
-            src="src/assets/logo.webp"
+            src="assets/logo.webp"
             alt="Logo"
             className="h-10"
           />
