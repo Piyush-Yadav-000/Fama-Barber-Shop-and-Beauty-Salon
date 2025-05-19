@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { FaMapMarkerAlt, FaPhoneAlt, FaDirections } from "react-icons/fa";
-import GoogleMapReact from 'google-map-react';
+
 
 
 /**
