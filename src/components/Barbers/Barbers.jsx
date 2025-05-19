@@ -7,21 +7,21 @@ const barbers = [
 		title: "Owner & Master Barber",
 		description:
 			"With over 15 years of experience, Jason founded Fama Barber Shop and Beauty Salon to bring premium men's grooming services to Denton. Specializing in classic cuts and beard trims.",
-		image: "/src/assets/staff1.webp",
+		image: "assets/staff1.webp",
 	},
 	{
 		name: "Marcus Williams",
 		title: "Senior Barber",
 		description:
 			"Marcus brings 8 years of experience to Fama Barber Shop and Beauty Salon. His expertise in fades, beard sculpting, and precision lineup work has earned him a loyal client base.",
-		image: "src/assets/staff2.webp",
+		image: "assets/staff2.webp",
 	},
 	{
 		name: "Terrence Jackson",
 		title: "Barber & Stylist",
 		description:
 			"Terrence specializes in modern men's styling, textured cuts, and hair designs. With his creative approach and technical skill, he excels at transforming your look.",
-		image: "src/assets/gallery1.webp",
+		image: "assets/gallery1.webp",
 	},
 ];
 

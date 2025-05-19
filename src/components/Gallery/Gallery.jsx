@@ -2,15 +2,15 @@ import React, { useState } from "react";
 
 const galleryImages = [
   {
-    src: "src/assets/gallery1.webp",
+    src: "assets/gallery1.webp",
     alt: "Haircut close-up",
   },
   {
-    src: "src/assets/gallery2.webp",
+    src: "assets/gallery2.webp",
     alt: "Barbershop exterior",
   },
   {
-    src: "src/assets/gallery3.webp",
+    src: "assets/gallery3.webp",
     alt: "Awards and trophies",
   },
 ];

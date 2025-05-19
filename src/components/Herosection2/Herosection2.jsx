@@ -18,7 +18,7 @@ const HeroSection2 = () => {
         {/* Image */}
         <div className="relative w-full lg:w-1/2 rounded-xl overflow-hidden shadow-lg">
           <img
-            src="src\assets\gallery2.webp"
+            src="assets\gallery2.webp"
             alt="PMC Storefront"
             className="rounded-xl"
           />

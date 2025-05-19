@@ -13,7 +13,7 @@ const Footer = () => {
         {/* Logo + Social */}
         <div>
           <img
-            src="src/assets/logo.webp"
+            src="assets/logo.webp"
             alt="Company Logo"
             className="w-24 mb-2"
           />

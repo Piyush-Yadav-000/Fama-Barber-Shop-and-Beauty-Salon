@@ -74,7 +74,7 @@ const HeroSection1 = () => {
           >
             <div className="w-full border-4 border-double rounded-md overflow-hidden shadow-lg">
               <img
-                src="src/assets/hero1-img.webp"
+                src="assets/hero1-img.webp"
                 alt="Barber Team"
                 className="rounded-md w-full object-cover"
               />
